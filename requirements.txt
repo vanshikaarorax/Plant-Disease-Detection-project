@@ -1,3 +1,11 @@
 numpy
 tensorflow
 pandas
+boto3
+wandb
+mlflow
+seaborn
+matplotlib
+python-dotenv
+sagemaker
+pillow
