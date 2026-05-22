@@ -1,0 +1,15 @@
+artifact_uri: /Users/vanshikaarora/Downloads/Plant-disease-detection-cnn/notebooks/../mlruns/560928786936129189/ed0977cc6ae14f498025884e12775cf0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '560928786936129189'
+lifecycle_stage: active
+run_id: ed0977cc6ae14f498025884e12775cf0
+run_name: baseline_preprocessing_pipeline
+run_uuid: ed0977cc6ae14f498025884e12775cf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779462969308
+status: 1
+tags: []
+user_id: vanshikaarora
